@@ -4,7 +4,7 @@
 @prefix gr: <https://www.GamesRadar.fake/gr#> .
 
 <https://www.ign.fake/2012>
-  ig:pic "https://static.wikia.nocookie.net/jacksepticeye/images/3/31/Journey_logo.jpg/revision/latest?cb=20180710195238" ;
+  ig:pic "https://nyc3.digitaloceanspaces.com/gamersegames/2020/05/Journey-Steam.jpg" ;
   ig:title "Journey" ;
   ig:developer "Thatgamecompany" ;
   ig:genre "Adventure" ;
@@ -76,7 +76,7 @@
   ig:platform "Microsoft Windows, macOS,  Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S" .
 
   <https://www.GameSpot.fake/2012>
-  gs:pic "https://static.wikia.nocookie.net/jacksepticeye/images/3/31/Journey_logo.jpg/revision/latest?cb=20180710195238" ;
+  gs:pic "https://nyc3.digitaloceanspaces.com/gamersegames/2020/05/Journey-Steam.jpg" ;
   gs:title "Journey" ;
   gs:developer "Thatgamecompany" ;
   gs:genre "Adventure" ;
@@ -140,7 +140,7 @@
   gs:platform "Microsoft Windows, PlayStation 4, Stadia, Xbox One" .
 
 <https://www.GameSpot.fake/2020>
-  gs:pic "https://blog.gamesight.io/content/images/size/w2000/2020/03/tkDTohBQD2RwjoMnLReB5U.jpg" ;
+  gs:pic "https://www.roadtovr.com/wp-content/uploads/2020/03/half-life-alyx-title.jpg" ;
   gs:title "Half-Life: Alyx" ;
   gs:developer "Valve" ;
   gs:genre "First-person shooter" ;
@@ -236,7 +236,7 @@
   gr:platform "PlayStation 3, PlayStation 4, Xbox 360, Xbox One" .
 
 <https://www.GamesRadar.fake/2015>
-  gr:pic "https://cdn-ext.fanatical.com/production/product/1280x720/ae2c69cd-acfd-488e-a7cc-64737ff80f05.jpeg" ;
+  gr:pic "https://media.gq.com/photos/5a9f748e367f7b0af5677c9f/master/pass/metal%20gear%20solid%205.jpg" ;
   gr:title "Metal Gear Solid V: The Phantom Pain" ;
   gr:developer "Kojima Productions" ;
   gr:genre "Action-adventure" ;
